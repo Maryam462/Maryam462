@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=180&section=header&text=Maryam's%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">Full-Stack Web Developer | Backend & API Development | Automation Engineer</h3>
 
@@ -63,15 +67,10 @@ An AI-powered flood prediction and monitoring platform built as a final year pro
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Profile Views
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Maryam462&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryam462&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maryam462&theme=dark&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=Maryam462&color=1DB954&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
