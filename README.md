@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1DB954&height=180&section=header&text=Maryam's%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Maryam</h1>
+<h1 align="center">Hi! I Am Maryam</h1>
 <h3 align="center">Full-Stack Web Developer &nbsp;|&nbsp; Backend & API Development &nbsp;|&nbsp; Automation Engineer</h3>
 
 <p align="center">
