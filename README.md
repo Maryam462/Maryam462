@@ -14,7 +14,6 @@
 ### <img src="https://img.shields.io/badge/-About-1DB954?style=flat-square" height="20"/> About Me
 
 - Software Engineering graduate — University of Agriculture, Faisalabad
-- Working as a **Web Developer** at **NexGen Voice Technologies LLC**, building and maintaining production websites and portals
 - Comfortable across the full stack — frontend UI, backend APIs, databases, and workflow automation
 - Focused on backend authentication systems — JWT, bcrypt, role-based access control, and secure cookie handling
 - Build AI-powered automation workflows using **n8n** (customer support, invoice processing, resume screening, and more)
